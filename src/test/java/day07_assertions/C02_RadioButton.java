@@ -39,4 +39,3 @@ public class C02_RadioButton {
     }
 }
 //driver.findElement(By.className("_42ft _4jy0 _9xo7 _4jy3 _4jy1 selected _51sy"))
-//cookies kisminda bu kodda calisiyor hocam, arkadaslar degistirebilir
